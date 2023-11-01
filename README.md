@@ -11,7 +11,7 @@
 <a href="https://www.figma.com/file/hZN6GGCgqPm35GWRlITsYq/Loren-Vega-Mejia?type=design&node-id=5%3A511&mode=design&t=pCOEwhWJlNGad6aI-1">Link de figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
-
+<img src="./public/images/punto-2.png" alt="punto 2">
 <h2>Punto 3: Diseño con CSS</h2>
 
 <h2>Punto 4: Títulos</h2>
