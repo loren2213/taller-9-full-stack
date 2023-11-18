@@ -16,16 +16,16 @@
 <img src="./public/images/punto-3.png" alt="punto 3">
 
 <h2>Punto 4: Títulos</h2>
-<img src="./public/images/punto-4.png" alt="punto 4">
+<img src="./public/images/punto-4.jpg" alt="punto 4">
 
 <h2>Punto 5: Párrafo</h2>
-<img scr="./public/images/punto-5.png" alt="punto 5">
+<img scr="./public/images/punto-5.jpg" alt="punto 5">
 
 <h2>Punto 6: Links</h2>
-<img scr="./public/images/punto-6.png" alt="punto 6">
+<img scr="./public/images/punto-6.jpg" alt="punto 6">
 
 <h2>Punto 7 y 8 : Navegación</h2>
-<img scr="./public/images/punto-7-8.png" alt="punto 7 y 8">
+<img scr="./public/images/punto-7-8.jpg" alt="punto 7 y 8">
 
 <h2>Punto 9:  Tabla</h2>
-<img scr="./public/images/punto-9.png" alt="punto 9">
+<img scr="./public/images/punto-9.jpg" alt="punto 9">
