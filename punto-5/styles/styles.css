@@ -1,0 +1,31 @@
+u {
+    color: green;
+}
+
+.enemigo {
+    color: red;
+}
+
+u {
+    text-decoration: underline;
+
+}
+.entiendo {
+    display: inline-block;
+}
+
+strong {
+    font-size: 40px;
+}
+
+.Blue {
+    color: blue;
+}
+.red {
+    color: red;
+    display: inline-block;
+}
+
+.subrayado {
+   text-decoration: overline underline;
+}
