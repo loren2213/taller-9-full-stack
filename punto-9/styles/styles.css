@@ -1,0 +1,33 @@
+table {
+    
+    width:  900px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: yellow;
+    
+}
+
+th {
+    border: 1px dotted black;
+    padding: 8px;
+    text-align: left;
+    color: black;
+
+}
+
+td {
+    border: 1px dotted black;
+    padding: 8px;
+    text-align: left;
+    color: black;
+
+}
+
+.Edad {
+    color: red;
+    text-align: center;
+}
+.Peso {
+    color: red;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+nav {
+    color: white;
+    background-color: rgba(129,28, 224, 0.411);
+    width: 600px;
+    height: 50px;
+    justify-content: center;
+
+}
+
+nav ul :hover  {
+    background-color: blue;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+   
+}
+
+ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    align-items: center;
+    height: 50px;
+   
+}
+
+.buttonblue {
+    color: blue;
+}
