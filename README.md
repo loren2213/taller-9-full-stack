@@ -5,6 +5,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Link de la pagina web</h2>
+<a href= "file:///C:/Users/ASUS/Documents/taller%209/index.html">Link web </a>>
 
 
 <h2>Punto 1: Link de figma</h2>
